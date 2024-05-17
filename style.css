@@ -68,7 +68,7 @@ section.imagem > p {
 }
 
 section#fundo001 {
-    background-image: url(imagens/background001.jpg);
+    background-image: url(imagens/background001.JPG);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -77,7 +77,7 @@ section#fundo001 {
 }
 
 section#fundo002 {
-    background-image: url(imagens/background002.jpg);
+    background-image: url(imagens/background002.JPG);
     background-size: cover;
     background-position: center right;
     background-attachment: fixed;
